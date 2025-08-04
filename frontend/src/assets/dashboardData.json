@@ -1,0 +1,41 @@
+{
+  "exams": [
+    {
+      "name": "Database Fundamentals",
+      "date": "5/15/2023",
+      "score": "85/100",
+      "status": "Passed"
+    },
+    {
+      "name": "Network Security",
+      "date": "4/28/2023",
+      "score": "72/100",
+      "status": "Passed"
+    },
+    {
+      "name": "Programming Logic",
+      "date": "4/10/2023",
+      "score": "65/100",
+      "status": "Passed"
+    },
+    {
+      "name": "System Design",
+      "date": "3/22/2023",
+      "score": "45/100",
+      "status": "Failed"
+    },
+    {
+      "name": "Web Development",
+      "date": "3/5/2023",
+      "score": "92/100",
+      "status": "Passed"
+    }
+  ],
+  "strengths": [
+    { "name": "Database Design", "level": "Strong", "percent": 90 },
+    { "name": "SQL Queries", "level": "Strong", "percent": 85 },
+    { "name": "Normalization", "level": "Weak", "percent": 40 },
+    { "name": "Indexing", "level": "Moderate", "percent": 60 },
+    { "name": "Transactions", "level": "Weak", "percent": 45 }
+  ]
+}
